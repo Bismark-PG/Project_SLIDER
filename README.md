@@ -46,7 +46,7 @@ The game features immersive level design to keep you on your toes, along with us
 
 ## 💾 Download Link
 
-### [Google Drive](https://drive.google.com/file/d/1sb7EAwGtrWUeU7dRQ6dRT9OGnOOiXi-C/view?usp=sharing)
+### [Google Drive](https://drive.google.com/file/d/1ILp_Ce39G_gb67WV0TyLz3iKojJOL_Zw/view?usp=sharing)
 
 ### ~~***[itch.io]( )***~~ *(Coming Soon)*
 
@@ -57,13 +57,19 @@ The game features immersive level design to keep you on your toes, along with us
 ### v1.0 (2025.12.16)
 - Initial Release!
 
+### v1.1 (2025.12.18)
+- Bug Fixes & User Experience Improvements
+  + Fixed Movement Glitch : Resolved an issue where the character would move unintentionally in certain environments without key input.
+  + Added Help Menu : Implemented an in-game Help Menu to guide players on controls and mechanics.
+  + Stage 3 Optimization : Added a checkpoint shortcut in Stage 3 to reduce repetitive gameplay and improve pacing.
+
 ## 📝 Roadmap & Dev Notes
 - **This section outlines known issues and future plans for the project.**
 
 ---
 
 > ### ⁉️ Known Issues
->   + **Movement Error : In certain environments, the character moves unintentionally without any key input.**
+>  + ***(Nothing Yet)***
 >
 > ### 🗃️ Planned Improvements
 >   +  Level Design : Adjusting difficulty and adding gimmicks
@@ -75,7 +81,7 @@ The game features immersive level design to keep you on your toes, along with us
 >  + **(I'm Waiting!)**
 > 
 > ### ✔️ Completed
->  + ***(Nothing Yet)***
+>  + ~~**Movement Error : In certain environments, the character moves unintentionally without any key input.**~~
 
 ---
 
