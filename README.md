@@ -46,9 +46,9 @@ The game features immersive level design to keep you on your toes, along with us
 
 ## 💾 Download Link
 
-### [Google Drive](https://drive.google.com/file/d/1ILp_Ce39G_gb67WV0TyLz3iKojJOL_Zw/view?usp=sharing)
+### [Google Drive](https://drive.google.com/file/d/10uMQymqAvmczjHb7S5pxtE54CqQrLiFz/view?usp=sharing)
 
-### ~~***[itch.io]( )***~~ *(Coming Soon)*
+### ***[itch.io](https://bis-mark.itch.io/project-slider)***
 
 ---
 
@@ -62,6 +62,11 @@ The game features immersive level design to keep you on your toes, along with us
   + Fixed Movement Glitch : Resolved an issue where the character would move unintentionally in certain environments without key input.
   + Added Help Menu : Implemented an in-game Help Menu to guide players on controls and mechanics.
   + Stage 3 Optimization : Added a checkpoint shortcut in Stage 3 to reduce repetitive gameplay and improve pacing.
+ 
+### v1.1.1 (2025.12.19)
+- Hotfix & Bug Fixes
+  + Fixed Physics Collision : Resolved an issue where the player would collide with broken wall debris, disrupting movement flow.
+  + Fixed Death Zone Error : Corrected an issue where certain Death Zones failed to trigger properly.
 
 ## 📝 Roadmap & Dev Notes
 - **This section outlines known issues and future plans for the project.**
