@@ -48,7 +48,7 @@ The game features immersive level design to keep you on your toes, along with us
 
 ### [Google Drive](https://drive.google.com/file/d/10uMQymqAvmczjHb7S5pxtE54CqQrLiFz/view?usp=sharing)
 
-### ***[itch.io](https://bis-mark.itch.io/project-slider)***
+### [itch.io](https://bis-mark.itch.io/project-slider)
 
 ---
 
