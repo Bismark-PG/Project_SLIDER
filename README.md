@@ -80,13 +80,13 @@ The game features immersive level design to keep you on your toes, along with us
 >   +  Level Design : Adjusting difficulty and adding gimmicks
 >   +  UI : Add Teleporter Trigger UI
 >   +  Effect : Add Some Effect
->   +  **Help : Add Help For Game Information And Reference**
 >
 > ### 📬 Received Feedback
 >  + **(I'm Waiting!)**
 > 
 > ### ✔️ Completed
 >  + ~~**Movement Error : In certain environments, the character moves unintentionally without any key input.**~~
+>  +  --Help : Add Help For Game Information And Reference--
 
 ---
 
